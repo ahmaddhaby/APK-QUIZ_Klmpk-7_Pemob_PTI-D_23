@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738844876552",
+    "project_id": "amel-dfab9",
+    "storage_bucket": "amel-dfab9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738844876552:android:170c28602e9fa2b216d6bd",
+        "android_client_info": {
+          "package_name": "myid.shizuka.rpl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3_X76jVAarmpLiv6bENYo0GJ4vlaeG4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
