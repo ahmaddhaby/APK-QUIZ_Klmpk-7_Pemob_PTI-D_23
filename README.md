@@ -19,5 +19,6 @@ Kelompok 7 PTI D Pemrogaman Mobile:
 
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ![Showify](https://github.com/Shizu-ka/Quiz-App/assets/58659139/8e316fcd-b1af-4155-94a1-ce3d452687ce) | ![Screenshot_2022-05-31-12-23-27-332_com android camera](https://github.com/Shizu-ka/Quiz-App/assets/58659139/6d347ee9-a2a9-45f4-a7a0-730aac8e60df) | ![Screenshot_2022-05-31-12-22-58-343_com example diseasedetection](https://github.com/Shizu-ka/Quiz-App/assets/58659139/3f0bf3c9-3297-4a1e-9fce-60c0095b0302) | 
+| ![Showify](https://github.com/Shizu-ka/Quiz-App/assets/58659139/8e316fcd-b1af-4155-94a1-ce3d452687ce) | ![Screenshot_2022-05-31-12-23-27-332_com android camera](https://github.com/Shizu-ka/Quiz-App/assets/58659139/6d347ee9-a2a9-45f4-a7a0-730aac8e60df) | ![Screenshot_2022-05-31-12-22-58-343_com example diseasedetection](https://github.com/Shizu-ka/Quiz-App/assets/58659139/3f0bf3c9-3297-4a1e-9fce-60c0095b0302) |   ![Screenshot_20241219_214105_HeluTales](https://github.com/user-attachments/assets/c74c5045-9fbb-41c8-998f-862be242f9b8)
+
 
