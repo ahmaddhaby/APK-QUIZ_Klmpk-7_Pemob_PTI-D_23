@@ -1,9 +1,6 @@
 Kelompok 7 PTI D Pemrogaman Mobile:
-
 1.Amel Putri Fatikasari (23050974116)
-
 2. Latifah Agustina Setyawardani (23050974117)
-
 3. Ahmad Dhaby S Bagus (23050974131)
 
 [![Quiz Zone](https://img.shields.io/badge/QuizZone✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Shizu-ka/Quiz-App/releases/)
