@@ -15,6 +15,12 @@
 * Firebase Firestore DataBase
 * View and Data Binding
 
+## 🚀 Tujuan Aplikasi
+* Meningkatkan Pembelajaran Interaktif
+* Evaluasi Pemahaman Siswa
+* Meningkatkan Motivasi Belajar
+* Mempermudah Akses Pembelajaran
+
 ## 📸 Screenshots
 
 ||||
