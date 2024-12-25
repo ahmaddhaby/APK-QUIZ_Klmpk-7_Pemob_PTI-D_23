@@ -3,7 +3,7 @@
 * Latifah Agustina Setyawardani (23050974117)
 * Ahmad Dhaby S Bagus (23050974131)
 
-[![Quiz Zone](https://img.shields.io/badge/QuizZone✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Shizu-ka/Quiz-App/releases/)
+[![Quiz Zone](https://img.shields.io/badge/Quiz✅-APK-red.svg?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1u1qtQXEMCJaXa1jwkjRv2Ux3ZNVHZ3qd/view?usp=drive_link)
 
 ## ⚙️ Features
 * Daily New Quizes reated to Java Programming.
